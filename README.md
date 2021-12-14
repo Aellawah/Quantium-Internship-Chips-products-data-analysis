@@ -1,5 +1,5 @@
 # Quantium Internship Chips products data analysis: Project Overview
-# ![](/Data files/Chips.JPEG)
+<img src="https://github.com/Aellawah/Quantium-Internship-Chips-products-data-analysis/blob/main/Data%20files/Chips.jpeg">
 
 Our client is a company that owns several hypermarkets in the region that sells different types of products, the client wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
 
