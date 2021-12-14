@@ -7,7 +7,7 @@ The client has provided us with two datasets related to chips transactions:
 - Transactions dataset
 - Customers dataset
 
-- Generated thorough insights from the data that would help the company improve their business
+- Generated thorough insights from the data that will help the company to improve it's business
 
 # Code and Resources Used
 
